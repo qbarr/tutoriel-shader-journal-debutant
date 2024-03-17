@@ -1,4 +1,4 @@
-# Three.js Journey
+# Tuto debutant shader journal
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
